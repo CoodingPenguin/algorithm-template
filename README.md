@@ -8,7 +8,6 @@
   <small>알고리즘, 데이터분석 등 자주 쓰는 코드 아카이브</small>
 </div>
 
-
 ## 👩‍💻 작성 규칙
 
 - `알고리즘` : 필수 알고리즘을 **Python**으로 정리합니다. 출처는 `src`에, 시간복잡도는 `time`으로 주석에 표시합니다.
@@ -31,8 +30,13 @@
 
 </details>
 
-
 ## 📝 목차
+
+### 📚 자료구조
+
+#### [그래프]
+
+- [인접 행렬과 리스트](./data-structure/graph/adjacent_matrix_and_list.py)
 
 ### 💡 알고리즘
 
@@ -44,7 +48,6 @@
 
 - [깊이 우선 탐색 DFS](./algorithms/graph/dfs.py)
 - [너비 우선 탐색 BFS](./algorithms/graph/bfs.py)
-- [인접 행렬과 리스트](./algorithms/graph/adjacent_matrix_and_list.py)
 - [다익스트라 알고리즘](./algorithms/graph/dijkstra.py)
 - [플로이드 워셜 알고리즘](./algorithms/graph/floyd_warshall.py)
 
@@ -67,4 +70,3 @@
 
 - [Missingno Package](./data-analysis/data-visualization/missingno.ipynb)
 - [Pieplot](./data-analysis/data-visualization/pieplot.ipynb)
-
