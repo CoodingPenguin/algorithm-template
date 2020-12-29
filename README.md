@@ -44,13 +44,6 @@
 
 - [행렬 90도 시계방향 회전](./algorithms/linear-algebra/rotate_matrix_by_90.py)
 
-#### [그래프]
-
-- [깊이 우선 탐색 DFS](./algorithms/graph/dfs.py)
-- [너비 우선 탐색 BFS](./algorithms/graph/bfs.py)
-- [다익스트라 알고리즘](./algorithms/graph/dijkstra.py)
-- [플로이드 워셜 알고리즘](./algorithms/graph/floyd_warshall.py)
-
 #### [정렬]
 
 - [선택 정렬](./algorithms/sort/selection_sort.py)
@@ -60,6 +53,10 @@
 
 #### [탐색]
 
+- [깊이 우선 탐색 DFS](./algorithms/search/dfs.py)
+- [너비 우선 탐색 BFS](./algorithms/search/bfs.py)
+- [다익스트라 알고리즘](./algorithms/search/dijkstra.py)
+- [플로이드 워셜 알고리즘](./algorithms/search/floyd_warshall.py)
 - [이진 탐색](./algorithms/search/binary_search.py)
 
 ---
