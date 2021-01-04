@@ -21,6 +21,7 @@
 
 |     대상     |  분류  |                                             제목                                              |
 | :----------: | :----: | :-------------------------------------------------------------------------------------------: |
+|  `자료구조`  |   책   |  [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)   |
 |  `알고리즘`  | 사이트 |                       [백준 단계별 문제](https://www.acmicpc.net/step)                        |
 |  `알고리즘`  | 사이트 | [프로그래머스 코딩테스트 준비](https://programmers.co.kr/learn/challenges?tab=all_challenges) |
 |  `알고리즘`  |   책   |  [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923)   |
@@ -66,6 +67,9 @@
 #### [그래프]
 
 - [서로소 집합 Union-Find](./algorithms/graph/union_find.py)
+- [그래프 사이클 판별](./algorithms/graph/determine_cycle.py)
+- [크루스칼 알고리즘](algorithms/graph/kruskal.py)
+- [위상 정렬](./algorithms/graph/topology_sort.py)
 
 ---
 
