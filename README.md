@@ -10,10 +10,10 @@
 
 ## 📄 Table of Contents
 
-- [CS](#cs)
+- [CS](#-cs)
   - [알고리즘](#알고리즘)
   - [자료구조](#자료구조)
-- [Python](#python)
+- [Python](#-python)
   - [Python 라이브러리](#python-라이브러리)
   - [데이터 시각화](#데이터-시각화)
 
