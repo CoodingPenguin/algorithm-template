@@ -16,6 +16,7 @@
 - [Python](#-python)
   - [Python 라이브러리](#python-라이브러리)
   - [데이터 시각화](#데이터-시각화)
+  - [Effective Python](#effective-python)
 
 <br/>
 
@@ -77,3 +78,7 @@
 **[☝ 위로 올라가기](#)**
 
 ---
+
+### [Effective Python](./effective-python)
+
+- [1장. 파이썬답게 생각하기](./effective-python/ch01.md)
