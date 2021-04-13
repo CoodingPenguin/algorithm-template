@@ -1,4 +1,4 @@
-# Numpy Cheatsheet
+# 👀 Numpy Cheatsheet
 
 - [1. Numpy Package](#1-numpy-package)
 - [2. Array Creation](#2-array-creation)

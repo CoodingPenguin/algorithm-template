@@ -10,7 +10,16 @@
 
 ## 📄 Table of Contents
 
-목차 수정하기
-- 카테고리 구분x
-- 카테고리에 참고 자료 링크해놓기
+- [Algorithm](./algorithm)
+- [Numpy](./numpy)
+- [Pandas](./pandas)
 
+## 📌 References
+
+|         대상         |                                            자료                                            |
+| :------------------: | :----------------------------------------------------------------------------------------: |
+|     `Algorithm`      | [이것이 취업을 위한 코딩테스트다 with 파이썬](http://www.yes24.com/Product/Goods/91433923) |
+|       `Numpy`        |             [부스트캠프 AI Tech](https://boostcamp.connect.or.kr/program.html)             |
+|       `Pandas`       |             [부스트캠프 AI Tech](https://boostcamp.connect.or.kr/program.html)             |
+| `Data Visualization` |          [missingno - ResidentMario](https://github.com/ResidentMario/missingno)           |
+| `Data Visualization` |               [matplotlib documentation](https://matplotlib.org/stable/api/)               |

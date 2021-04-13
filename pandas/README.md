@@ -1,4 +1,4 @@
-# Pandas Cheatsheet
+# 👀 Pandas Cheatsheet
 
 - [1. Pandas](#1-pandas)
   - [1.1. Terminology](#11-terminology)
